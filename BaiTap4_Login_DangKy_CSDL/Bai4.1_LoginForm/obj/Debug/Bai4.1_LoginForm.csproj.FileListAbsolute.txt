@@ -1,0 +1,6 @@
+C:\Users\anhva\Downloads\BaiTap4_Login_DangKy_CSDL\BaiTap4_Login_DangKy_CSDL\Bai4.1_LoginForm\bin\Debug\Bai4.1_LoginForm.exe
+C:\Users\anhva\Downloads\BaiTap4_Login_DangKy_CSDL\BaiTap4_Login_DangKy_CSDL\Bai4.1_LoginForm\bin\Debug\Bai4.1_LoginForm.pdb
+C:\Users\anhva\Downloads\BaiTap4_Login_DangKy_CSDL\BaiTap4_Login_DangKy_CSDL\Bai4.1_LoginForm\obj\Debug\Bai4.1_LoginForm.csproj.AssemblyReference.cache
+C:\Users\anhva\Downloads\BaiTap4_Login_DangKy_CSDL\BaiTap4_Login_DangKy_CSDL\Bai4.1_LoginForm\obj\Debug\Bai4.1_LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\anhva\Downloads\BaiTap4_Login_DangKy_CSDL\BaiTap4_Login_DangKy_CSDL\Bai4.1_LoginForm\obj\Debug\Bai4.1_LoginForm.exe
+C:\Users\anhva\Downloads\BaiTap4_Login_DangKy_CSDL\BaiTap4_Login_DangKy_CSDL\Bai4.1_LoginForm\obj\Debug\Bai4.1_LoginForm.pdb
